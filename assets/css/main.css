@@ -3384,9 +3384,9 @@
 /* Banner */
 
 	#banner {
-		padding: 90em 0 0em 0;
+		padding: 10em 0 0em 0;
 		background-size: 100%;
-    background-image: url('../../images/matt/transgenicPharynx.jpg');
+    background-image: url('../../images/matt/laserHSneuroncropped.jpg');
 		background-position: top;
 		background-attachment: fixed;
 		background-repeat: no-repeat;
@@ -3397,23 +3397,23 @@
 	#bannerpub {
 		padding: 20em 0 0em 0;
 		background-size: 100%;
-    background-image: url('../../images/matt/laserHSneuroncropped.jpg');
+    background-image: url('../../images/matt/transgenicPharynx.jpg');
 		background-position: top;
 		background-attachment: fixed;
 		background-repeat: no-repeat;
 		text-align: center;
-		border-top: 0em solid #5385c1;
+		border-top: 0.0em solid #5385c1;
 	  }
 
 	#bannerres {
-		padding: 18em 0 0em 0;
+		padding: 20em 0 0em 0;
 		background-size: 100%;
     background-image: url('../../images/matt/wmHighres_cropped.jpg');
 		background-position: top;
 		background-attachment: fixed;
 		background-repeat: no-repeat;
 		text-align: center;
-		border-top: 0.5em solid #5385c1;
+		border-top: 0.0em solid #5385c1;
 	}
 	
 	#bannerdiss {
@@ -3424,7 +3424,7 @@
 		background-attachment: fixed;
 		background-repeat: no-repeat;
 		text-align: center;
-		border-top: 0.5em solid #5385c1;
+		border-top: 0.0em solid #5385c1;
 	}
 	
 	#bannerrcourse {
