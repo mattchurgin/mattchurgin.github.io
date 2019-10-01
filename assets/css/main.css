@@ -3386,8 +3386,11 @@
 	#banner {
 		padding: 10em 0 0em 0;
 		background-size: 100%;
-    background-image: url('../../images/matt/glomeruli3d.jpg');
+    background-image: url('../../images/matt/Churgin_HBI_2019.png');
 		background-position: top;
+		height: 750px;
+		overflow: hidden;
+		margin: 0;
 		background-attachment: fixed;
 		background-repeat: no-repeat;
 		text-align: center;
@@ -3408,36 +3411,13 @@
 	#bannerres {
 		padding: 20em 0 0em 0;
 		background-size: 100%;
-    background-image: url('../../images/matt/wmHighres_cropped.jpg');
+    background-image: url('../../images/matt/glomeruli3d.jpg');
 		background-position: top;
 		background-attachment: fixed;
 		background-repeat: no-repeat;
 		text-align: center;
 		border-top: 0.0em solid #5385c1;
 	}
-	
-	#bannerdiss {
-		padding: 18em 0 0em 0;
-		background-size: 100%;
-    background-image: url('../../images/tuscany.jpg');
-		background-position: top;
-		background-attachment: fixed;
-		background-repeat: no-repeat;
-		text-align: center;
-		border-top: 0.0em solid #5385c1;
-	}
-	
-	#bannerrcourse {
-		padding: 18em 0 0em 0;
-		background-size: 100%;
-    background-image: url('../../images/lillies.jpg');
-		background-position: top;
-		background-attachment: fixed;
-		background-repeat: no-repeat;
-		text-align: center;
-		border-top: 0.5em solid #5385c1;
-	}
-
 
 		#banner h1 {
 			font-size: 3.5em;
@@ -3462,7 +3442,7 @@
 			font-weight: 100;
 			color: #fff;
 			line-height: 1em;
-			margin: 0.5em 0 0.2em 0;
+			margin: 0 0 0.5em 0;
 			padding: 0;
 		}
 		
@@ -3475,14 +3455,6 @@
 			padding: 0;
 		}
 		
-		#bannerrcourse h1 {
-			font-size: 3.5em;
-			font-weight: 100;
-			color: #fff;
-			line-height: 1em;
-			margin: 0.5em 0 0.2em 0;
-			padding: 0;
-		}
 		#banner p {
 			text-align: left;
 			font-size: 1em;
