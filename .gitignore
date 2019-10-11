@@ -1,3 +1,5 @@
 # ignore these files
 researchOld.html
 publications.html~
+.Rapp.history
+.Rhistory
